@@ -61,12 +61,21 @@ body {
     align-items: center;
   }
   
-  .cuadro-interno {
+  .cuadro-interno-naranja {
     width: 40px;
     height: 40px;
   }
  
-  
+  .cuadro-interno-azul {
+    width: 40px;
+    height: 40px;
+  }
+
+  .cuadro-interno-amarillo {
+    width: 40px;
+    height: 40px;
+  }
+
   .azul {
     background-color: #b2ebf2;
   }
@@ -101,5 +110,15 @@ body {
   }
   
   .cuadro-interno-naranja{
-    background-color: #ffbc5a   ;
+    background-color: #ff9d7f   ;
   }
+
+  .cuadro-interno-amarillo{
+    background-color: #ffce65   ;
+  }
+
+  .cuadro-interno-azul{
+    background-color: #9fe0eb  ;
+  } 
+
+ 
