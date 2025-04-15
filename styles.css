@@ -121,4 +121,10 @@ body {
     background-color: #9fe0eb  ;
   } 
 
- 
+ .cuadrado-chico{
+  width: 60px;
+  height: 60px;
+  background-color: #ffbc5a;
+margin: 20%;
+  }
+
